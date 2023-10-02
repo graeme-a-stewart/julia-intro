@@ -6,3 +6,5 @@ This tutorial is supported by the [HSF JuliaHEP](https://hepsoftwarefoundation.o
 
 ```{tableofcontents}
 ```
+
+This material is release under a Creative Commons Attribution 4.0 International Public License, [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Please see the `LICENSE` file.
