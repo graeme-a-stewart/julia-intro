@@ -6,5 +6,4 @@ root: intro
 chapters:
 - file: julia-why
 - file: julia-installation
-- file: julia-is-amazing
-- file: julia-rise-test
+- file: syntax-essentials
