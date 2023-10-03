@@ -1,4 +1,6 @@
-# Installing Julia
+# Installing and Running Julia
+
+## Installing Julia
 
 If you haven't already done so, visit the Julia [downloads](https://julialang.org/downloads/) page
 
@@ -30,3 +32,8 @@ julia>
 ```
 
 As shown above, try typing a few commands and checking that they execute as expected.
+
+## You should have learned...
+
+1. How to install Julia
+2. How to start the Julia REPL and execute commands

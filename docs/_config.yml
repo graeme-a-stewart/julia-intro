@@ -2,7 +2,8 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Introduction to Julia
-author: Graeme Stewart
+author: Graeme A Stewart
+copyright: "2023"
 logo: images/juliaheplogo.png
 
 # Force re-execution of notebooks on each build.
