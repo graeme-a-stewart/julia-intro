@@ -3,7 +3,13 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: julia-why
-- file: julia-installation
-- file: syntax-essentials
+parts:
+- caption: Introduction to Julia Lessons
+  chapters:
+  - file: julia-why
+  - file: julia-installation
+  - file: syntax-essentials
+- caption: Exercises
+  chapters:
+  - file: exercises/install
+  - file: exercises/setting-variables
